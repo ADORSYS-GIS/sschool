@@ -2590,17 +2590,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@trpc/react-query@npm:^11.0.0-rc.446":
-  version: 11.0.0-rc.741
-  resolution: "@trpc/react-query@npm:11.0.0-rc.741"
+"@trpc/react-query@npm:^11.0.0-rc.808":
+  version: 11.0.0-rc.808
+  resolution: "@trpc/react-query@npm:11.0.0-rc.808"
   peerDependencies:
     "@tanstack/react-query": ^5.62.8
-    "@trpc/client": 11.0.0-rc.741+caed91ee7
-    "@trpc/server": 11.0.0-rc.741+caed91ee7
+    "@trpc/client": 11.0.0-rc.808+4df1eb8fa
+    "@trpc/server": 11.0.0-rc.808+4df1eb8fa
     react: ">=18.2.0"
     react-dom: ">=18.2.0"
     typescript: ">=5.7.2"
-  checksum: 10c0/d5bd6b32427bc65510b8e45a4c78941ffcd3910ecf8d4c7a3d02456acf2f2f75f2d96b436d9a90b2bd2bd5fb4bdfd4f5efede5f9856d42e3815c2d6d3d1b12cb
+  checksum: 10c0/5c70e497f772a1d9fa47965147f853c7f2c8fcc828737a9346eea7cc9c3c04508df3e7102b7e8c18f863b9b342d2c2e61c7b932b023fd55a589c2e1fc8d3f487
   languageName: node
   linkType: hard
 
@@ -9280,7 +9280,7 @@ __metadata:
     "@tailwindcss/typography": "npm:^0.5.16"
     "@tanstack/react-query": "npm:^5.50.0"
     "@trpc/client": "npm:^11.0.0-rc.446"
-    "@trpc/react-query": "npm:^11.0.0-rc.446"
+    "@trpc/react-query": "npm:^11.0.0-rc.808"
     "@trpc/server": "npm:^11.0.0-rc.802"
     "@types/eslint": "npm:^8.56.10"
     "@types/node": "npm:^22.13.5"
