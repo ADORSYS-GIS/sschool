@@ -1,4 +1,4 @@
-FROM node:23-alpine as base
+FROM node:23-alpine AS base
 
 LABEL maintainer="Stephane Segning <selastlambou@gmail.com>"
 LABEL org.opencontainers.image.description="NextJS frontend for the Vymalo Project"
@@ -21,10 +21,16 @@ FROM base AS builder
 ENV NODE_ENV=production
 ENV NEXT_SHARP_PATH="/app/node_modules/sharp"
 ENV NEXT_TELEMETRY_DISABLED=1
+ENV SKIP_ENV_VALIDATION=1
+
+ENV S3_ENDPOINT=localhost
+ENV S3_PORT=19000
+ENV S3_SCHEME=https
 
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 
+RUN npx prisma generate
 RUN yarn build
 
 FROM base AS runner

@@ -30,7 +30,7 @@ jobs:
           node-version: "23"
       
       - name: Install dependencies
-        run: yarn install
+        run: corepack enable && yarn install
 
       - name: Run ESLint and post results
         uses: super-linter/super-linter@v7
