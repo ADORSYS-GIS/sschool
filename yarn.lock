@@ -1360,12 +1360,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@editorjs/list@npm:^2.0.4":
-  version: 2.0.4
-  resolution: "@editorjs/list@npm:2.0.4"
+"@editorjs/list@npm:^2.0.6":
+  version: 2.0.6
+  resolution: "@editorjs/list@npm:2.0.6"
   dependencies:
     "@codexteam/icons": "npm:^0.3.2"
-  checksum: 10c0/43a1e2425fb476a0bf650a4f9e588b1b3f52c7e4934053b0c5d50029133f7f462331411768ab25b2f71f777cc7c09045585fbdbd8897e41cab04cd6989fc2399
+  checksum: 10c0/0924542028ab070f9058a8f3adb7922004626f8bb189bfd69e0d33eda87cec1ff0aace8e17c0d5297f7972f9fab9bcde3df2f2cce8fc4fb9de784c66688797b6
   languageName: node
   linkType: hard
 
@@ -9468,7 +9468,7 @@ __metadata:
     "@editorjs/image": "npm:^2.10.1"
     "@editorjs/inline-code": "npm:^1.5.1"
     "@editorjs/link": "npm:^2.6.2"
-    "@editorjs/list": "npm:^2.0.4"
+    "@editorjs/list": "npm:^2.0.6"
     "@editorjs/marker": "npm:^1.4.0"
     "@editorjs/paragraph": "npm:^2.11.7"
     "@editorjs/quote": "npm:^2.7.6"
