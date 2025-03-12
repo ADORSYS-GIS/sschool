@@ -1985,12 +1985,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@next/bundle-analyzer@npm:^15.1.7":
-  version: 15.1.7
-  resolution: "@next/bundle-analyzer@npm:15.1.7"
+"@next/bundle-analyzer@npm:^15.2.2":
+  version: 15.2.2
+  resolution: "@next/bundle-analyzer@npm:15.2.2"
   dependencies:
     webpack-bundle-analyzer: "npm:4.10.1"
-  checksum: 10c0/582457ab5157ce3b4e806bd9a53ee595c08b753cc815336b6e1ceebbb305dd3e0e85579e02871947b320c2fe6b1d6d8ac62be6d94600ca9648b02c8bfcaa3ffe
+  checksum: 10c0/f6bec38de2293719d30cabab36b85c33eff6c651f05d6bcac5524bccee9e007e34054cd90f8ccf6c63ffe60042739098a1ede70521f138b988b9eebc289df0ae
   languageName: node
   linkType: hard
 
@@ -9476,7 +9476,7 @@ __metadata:
     "@editorjs/table": "npm:^2.4.3"
     "@editorjs/underline": "npm:^1.2.1"
     "@editorjs/warning": "npm:^1.4.1"
-    "@next/bundle-analyzer": "npm:^15.1.7"
+    "@next/bundle-analyzer": "npm:^15.2.2"
     "@opentelemetry/api": "npm:^1.9.0"
     "@opentelemetry/api-logs": "npm:^0.57.2"
     "@opentelemetry/instrumentation": "npm:^0.57.2"
