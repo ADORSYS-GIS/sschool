@@ -45,7 +45,7 @@
     "@editorjs/table": "^2.4.3",
     "@editorjs/underline": "^1.2.1",
     "@editorjs/warning": "^1.4.1",
-    "@next/bundle-analyzer": "^15.1.7",
+    "@next/bundle-analyzer": "^15.2.3",
     "@opentelemetry/api-logs": "^0.57.2",
     "@opentelemetry/instrumentation": "^0.57.2",
     "@opentelemetry/sdk-logs": "^0.57.2",
