@@ -101,7 +101,7 @@
     "@types/react": "19",
     "@types/react-dom": "^19.0.4",
     "@types/sortablejs": "^1.15.8",
-    "@typescript-eslint/eslint-plugin": "^8.24.1",
+    "@typescript-eslint/eslint-plugin": "^8.27.0",
     "@typescript-eslint/parser": "^8.1.0",
     "autoprefixer": "^10.4.20",
     "cssnano": "^7.0.6",
