@@ -4286,9 +4286,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vercel/otel@npm:^1.10.1":
-  version: 1.10.1
-  resolution: "@vercel/otel@npm:1.10.1"
+"@vercel/otel@npm:^1.10.4":
+  version: 1.10.4
+  resolution: "@vercel/otel@npm:1.10.4"
   peerDependencies:
     "@opentelemetry/api": ^1.7.0
     "@opentelemetry/api-logs": "*"
@@ -4297,7 +4297,7 @@ __metadata:
     "@opentelemetry/sdk-logs": "*"
     "@opentelemetry/sdk-metrics": ^1.19.0
     "@opentelemetry/sdk-trace-base": ^1.19.0
-  checksum: 10c0/81646bd600a2cda984973f5eac85bb3e9391aba326f3f67297ef1a1964559ac98e8e2755460af6cfa24fb80a40d16badb455b6a53c415330089fe2b1db7dd25b
+  checksum: 10c0/300084738036b24d3d706525cf13d0d722c5bec5f1ba916b781af15dcd6a06e23092b3b5a6d1c512955bed1e07cf69bd3ca417ec7c0f3a939ab961d66e28a140
   languageName: node
   linkType: hard
 
@@ -12066,7 +12066,7 @@ __metadata:
     "@types/sortablejs": "npm:^1.15.8"
     "@uiw/react-markdown-editor": "npm:^6.1.2"
     "@uiw/react-md-editor": "npm:^4.0.5"
-    "@vercel/otel": "npm:^1.10.1"
+    "@vercel/otel": "npm:^1.10.4"
     autoprefixer: "npm:^10.4.20"
     axios: "npm:^1.8.1"
     cssnano: "npm:^7.0.6"

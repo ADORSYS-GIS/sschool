@@ -44,7 +44,7 @@
     "@trpc/server": "11.0.0-rc.828",
     "@uiw/react-markdown-editor": "^6.1.2",
     "@uiw/react-md-editor": "^4.0.5",
-    "@vercel/otel": "^1.10.1",
+    "@vercel/otel": "^1.10.4",
     "axios": "^1.8.1",
     "formik": "^2.4.6",
     "fs-extra": "^11.3.0",
